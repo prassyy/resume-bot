@@ -1,0 +1,16 @@
+MEAN stack
+Node.js
+Angular
+Spring
+Hibernate
+MongoDB
+Kotlin
+Kubernetes
+Docker
+Jenkins
+MySQL
+RabbitMQ
+PHP
+Express.js
+Scrum
+Full-stack development

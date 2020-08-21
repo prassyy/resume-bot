@@ -1,0 +1,8 @@
+Elliot_Alderson.pdf
+Skills found: mean stack, angular, scrum, full-stack development, express.js, mongodb, 
+Skills Missing: hibernate, docker, jenkins, spring, kubernetes, rabbitmq, php, node.js, mysql, kotlin, 
+
+David_Baker.pdf
+Skills found: mean stack, angular, scrum, express.js, mongodb, 
+Skills Missing: hibernate, docker, jenkins, spring, kubernetes, rabbitmq, php, full-stack development, node.js, mysql, kotlin, 
+
